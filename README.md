@@ -17,8 +17,11 @@
 ### 🛠️ Stack
 
 **Backend:** PHP · Laravel · REST APIs · PostgreSQL · MySQL · Redis
+
 **Infra & DevOps:** Linux (Ubuntu Server) · Docker · Nginx · WireGuard · GitHub Actions
+
 **Security:** OpenVAS · Burp Suite · OWASP ZAP · gitleaks · HSTS/CSP · fail2ban · GPG
+
 **Frontend:** Blade · Tailwind CSS · Alpine.js · Vue · React
 
 ---
@@ -29,12 +32,3 @@
   with live threat telemetry, strict CSP and `security.txt`. Security as a visible feature.
 - **CronoApp** — Attendance-control SaaS for SMBs, instance-per-client model (Laravel + Docker + CI/CD).
 - **proyecto-olympo** — Secure AWS architecture (bastion host + private RDS + SSH tunnel + IAM).
-
----
-
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c0hete&show_icons=true&locale=en&hide=stars" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0hete&layout=compact&locale=en" alt="top langs" height="165" />
-</p>
